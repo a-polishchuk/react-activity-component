@@ -1,0 +1,22 @@
+.tabContent {
+    margin-top: 1rem;
+}
+
+.tabs {
+    display: flex;
+    gap: 1rem;
+}
+
+.tabTitle {
+    padding: 4px;
+    cursor: pointer;
+}
+
+.activeTabTitle {
+    border-bottom: 2px solid brown;
+}
+
+.clicks {
+    user-select: none;
+    cursor: pointer;
+}
