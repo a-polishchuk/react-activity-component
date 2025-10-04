@@ -1,7 +1,7 @@
 import './styles.css';
 import { useState } from 'react';
 import type { TabItem } from './types';
-import { TabContent } from './TanContent';
+import { TabContent } from './TabContent';
 import { TabsHeader } from './TabsHeader';
 import { RemountTabs } from './RemountTabs';
 
